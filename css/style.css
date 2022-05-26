@@ -28,3 +28,9 @@ h1 {
     color: #fff;
     font-size: 2rem;
 }
+
+.navbar-brand:hover, .create:hover{
+    color: #fff;
+    
+
+}
